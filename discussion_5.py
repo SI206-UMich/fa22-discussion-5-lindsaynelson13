@@ -72,7 +72,6 @@ class TestAllMethods(unittest.TestCase):
 		self.item3 = Item("Water", 1, 100)
 		self.item4 = Item("Fanta", 2, 60)
 		self.item5 = Item("CocaCola", 3, 40)
-		self.item6 = Item("Carrots", 
 
 	## Check to see whether count_a works
 	def test_count_a(self):
